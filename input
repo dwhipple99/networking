@@ -1,0 +1,12 @@
+# This is a comment, if a # is in first position, this line is a comment.
+#
+# Structure of file is as follows
+#
+# EDGE, CITY1, CITY2, DISTANCE
+1,Honolulu,Kaneohe,11
+2,Honolulu,Pearl City,13
+3,Kaneohe,Laie,24
+4,Laie,Wahiawa,28
+5,Wahiawa,PearlCity,12
+6,Wahiawa
+# This is the end of the input file..
